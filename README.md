@@ -15,14 +15,7 @@
  limitations under the License.
 -->
 
-# JUnit Jupiter Episode 3 - Running JUnit 4 / JUnit 5 / TestNG Tests within a Maven project.
+# Example Project for SUREFIRE-2102
 
 
-This project is related to this YouTube video:
-
-* [JUnit Jupiter Episode 3 - Running JUnit 4 / JUnit 5 / TestNG Tests within one project.][video]
- 
-[video]: https://youtu.be/Xy6m9rNYBhc
-[junit]: https://junit.org/junit5/
-
-[maven]: https://maven.apache.org
+[issue]: https://issues.apache.org/jira/browse/SUREFIRE-2102
